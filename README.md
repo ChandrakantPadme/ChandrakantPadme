@@ -1,6 +1,6 @@
 <!-- ![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif) -->
-<!-- ![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif) -->
-![MasterHead](https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif)
+![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
+<!-- ![MasterHead](https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif) -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Chandrakant</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
