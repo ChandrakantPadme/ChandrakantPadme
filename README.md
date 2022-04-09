@@ -1,4 +1,4 @@
-![MasterHead](https://c.tenor.com/DBqjevyA2o4AAAAM/bongo-cat-codes.gif)
+![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Chandrakant</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
