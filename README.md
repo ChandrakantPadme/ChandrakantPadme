@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **.Net**
 
-- 💬 Ask me about **Java, React, .Net**
+- 💬 Ask me about **NodeJs, Javascript, React, Typescript, MongoDB, ExpressJs**
 
 - 📫 How to reach me **cppadme@gmail.com**
 
